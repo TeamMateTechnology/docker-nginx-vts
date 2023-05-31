@@ -1,4 +1,4 @@
-name: Java CI
+name: Build and push Docker
 
 on: [ push ]
 
